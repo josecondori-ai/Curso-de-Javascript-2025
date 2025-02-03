@@ -1,0 +1,1 @@
+console.log('soy el archivos js desde el head')
